@@ -12,4 +12,13 @@ Option Explicit On
 
 
 Partial Public Class _Default
+
+    '''<summary>
+    '''spnWelcome control.
+    '''</summary>
+    '''<remarks>
+    '''Auto-generated field.
+    '''To modify move field declaration from designer file to code-behind file.
+    '''</remarks>
+    Protected WithEvents spnWelcome As Global.System.Web.UI.HtmlControls.HtmlGenericControl
 End Class
